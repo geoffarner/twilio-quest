@@ -1,8 +1,8 @@
-import sys
+# import sys
 
 
-def hail_friend(name):
-    print(f"Hail, {name}")
+# def hail_friend(name):
+#     print(f"Hail, {name}")
 
 
-hail_friend("Jonathan Joestar!")
+# hail_friend("Jonathan Joestar!")
